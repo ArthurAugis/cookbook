@@ -1,7 +1,7 @@
 # Scorton Hackathon — Cybersecurity Challenges
 Analyse Web • Comportements Applicatifs • OSINT & Threat Intelligence
 
-Bienvenue dans le **Scorton Cybersecurity Hackathon**, un ensemble de trois challenges techniques destinés à évaluer et développer vos compétences en analyse de sécurité, investigation, collecte de signaux, et compréhension des menaces modernes.
+Bienvenue dans le **Scorton Cybersecurity Hackathon A.K.A VIBENight **, un ensemble de trois challenges techniques destinés à évaluer et développer vos compétences en analyse de sécurité, investigation, collecte de signaux, et compréhension des menaces modernes.
 
 ---
 
