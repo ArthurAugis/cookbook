@@ -1,4 +1,11 @@
-# 🛡️ Challenge 1 – VibeStream  
+# 🛡️ Challenge 1 – VibeStream
+
+## Membres
+
+- Arthur Augis
+- Mathis Sarradin
+- Léopold Chidlovsky
+
 ## Audit de Sécurité Externe : `python.org`
 
 > ✅ **Objectif** : Scanner un site externe via l’API Scorton, identifier des signaux faibles et proposer des améliorations concrètes.
